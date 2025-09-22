@@ -28,21 +28,20 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
 
 ## 📸 UI Mockups
 
-All mockups are located in `./web-client/`
 
-- **Home / Login**  
+> Home / Login  
   ![Home](./web-client/home.webp)
 
-- **Professors Page**  
-  ![Professors](./web-client/professor.webp)
+> Professors  
+  ![Professors](./web-client/professors.webp)
 
-- **Parking Garages**  
+- Parking Garages
   ![Garages](./web-client/garages.webp)
 
-- **Dorms**  
+- Dorms  
   ![Dorms](./web-client/dorms.webp)
 
-- **Admin Dashboard**  
+- Admin Dashboard / Backpanel  
   ![Admin](./web-client/admin.webp)
 
 ---
