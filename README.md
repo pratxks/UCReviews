@@ -109,22 +109,17 @@ Full final analysis of the project is available in the report below:
 ```bash
 cd WebClient
 ng serve
-```
-Navigate to http://localhost:4200/. The app will auto-reload on changes.
 
-### Build
-```bash
+# Navigate to http://localhost:4200/. The app will auto-reload on changes.
+
+# Build
 ng build
-```
-Build artifacts are stored in the dist/ directory.
+# Build artifacts are stored in the dist/ directory.
 
-### Unit Tests
-```bash
+# Unit Tests
 ng test
-```
 
-### End-to-End Tests
-```bash
+# End-to-End Tests
 ng e2e
 ```
 
