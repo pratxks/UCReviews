@@ -25,19 +25,24 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
 ## 📸 UI Mockups
 
 
-> Home / Login  
+> Home / Login
+  
   ![Home](./web-client/home.webp)
 
-> Professors  
+> Professors
+
   ![Professors](./web-client/professors.webp)
 
-- Parking Garages
+> Parking Garages
+
   ![Garages](./web-client/garages.webp)
 
-- Dorms  
+> Dorms
+
   ![Dorms](./web-client/dorms.webp)
 
-- Admin Dashboard / Backpanel  
+> Admin Dashboard / Backpanel
+
   ![Admin](./web-client/admin.webp)
 
 
@@ -56,6 +61,7 @@ The backend interacts with the database and handles requests from the frontend. 
 - **Repositories** – Abstract database operations, ensuring clean data access.  
 
 > 📊 Diagram
+
 ![Technical Architecture](./diagram-1.png)
 
 
@@ -68,6 +74,7 @@ UC Reviews was designed around common UC community roles:
 - **Administrator Persona** – Uses the admin dashboard to moderate flagged reviews and track trends.  
 
 > 📊 Diagram
+
 ![User Personas](./user-persona.png)
 
 
@@ -79,6 +86,7 @@ The system supports multiple interactions:
 - **Admins** – Moderate flagged content, view analytics dashboard, manage users if necessary.  
 
 > 📊 Diagram
+
 ![Use Case Diagram](./usecase.png)
 
 ---
