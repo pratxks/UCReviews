@@ -22,7 +22,7 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
 - **Responsive Design** – Accessible on desktop and mobile browsers  
 - **Data Security** – Secure login, salted hashing, parameterized queries, minimal attack surface  
 
-## 📸 UI Mockups
+## 📸 User Interface
 
 
 > Home / Login
