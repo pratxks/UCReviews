@@ -9,8 +9,6 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
 ⚡ Note: This is a **forked repository**. The original source can be found here:  
 🔗 [Elliott03/UCReviews](https://github.com/Elliott03/UCReviews)
 
----
-
 ## ✨ Features
 
 - **Authentication** – Login via Google, Apple, or UC credentials  
@@ -23,8 +21,6 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
 - **Pagination** – Smooth navigation for large review datasets  
 - **Responsive Design** – Accessible on desktop and mobile browsers  
 - **Data Security** – Secure login, salted hashing, parameterized queries, minimal attack surface  
-
----
 
 ## 📸 UI Mockups
 
@@ -44,7 +40,6 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
 - Admin Dashboard / Backpanel  
   ![Admin](./web-client/admin.webp)
 
----
 
 ## 🏗️ Technical Architecture
 
@@ -60,10 +55,9 @@ The backend interacts with the database and handles requests from the frontend. 
 - **Services** – Contain application logic and serve as intermediaries between controllers and repositories.  
 - **Repositories** – Abstract database operations, ensuring clean data access.  
 
-📊 **Diagram:**  
+> 📊 Diagram
 ![Technical Architecture](./diagram-1.png)
 
----
 
 ## 👥 User Personas
 
@@ -73,10 +67,9 @@ UC Reviews was designed around common UC community roles:
 - **Faculty Persona** – Reviews professor feedback to improve teaching quality.  
 - **Administrator Persona** – Uses the admin dashboard to moderate flagged reviews and track trends.  
 
-📊 **Diagram:**  
+> 📊 Diagram
 ![User Personas](./user-persona.png)
 
----
 
 ## 📊 Use Case Diagram
 
@@ -85,7 +78,7 @@ The system supports multiple interactions:
 - **Students** – Login, browse listings, submit reviews, upvote/downvote reviews, report inappropriate content.  
 - **Admins** – Moderate flagged content, view analytics dashboard, manage users if necessary.  
 
-📊 **Diagram:**  
+> 📊 Diagram
 ![Use Case Diagram](./usecase.png)
 
 ---
@@ -96,7 +89,6 @@ Full final analysis of the project is available in the report below:
 
 📄 [Final Report (PDF)](./Financial_Report.pdf)
 
----
 
 ## 🚀 Getting Started
 
@@ -127,13 +119,13 @@ ng test
 ```bash
 ng e2e
 ```
+
 ## 🎯 Project Goals
 - Provide comprehensive student feedback across UC campus life  
 - Improve student experience through data-driven insights  
 - Ensure privacy and safety with anonymous and moderated reviews  
 - Deliver a responsive and intuitive interface  
 
----
 
 ## 👩‍💻 Contributors
 - Adam Tulloss  
@@ -141,20 +133,16 @@ ng e2e
 - Chase Staggs  
 - Pratik Chaudhari  
 
----
 
 ## 🔮 Future Enhancements
 - Analytics dashboard for trends in reviews  
 - Machine learning–based sentiment analysis of reviews  
 
----
 
 ## 🏆 Recognition
 - Presented at the University of Cincinnati IT Expo 2025  
 - Awarded 100% technical evaluation score  
 - Project completed under the supervision of Professor Dyllon Dekok  
-
----
 
 ## 📜 License
 © 2025 Adam Tulloss, Chase Staggs, Pratik Chaudhari, Elliott Phillips  
