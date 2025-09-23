@@ -124,10 +124,10 @@ ng e2e
 
 
 ## 👩‍💻 Contributors
+- Pratik Chaudhari  
 - Adam Tulloss  
 - Elliott Phillips  
 - Chase Staggs  
-- Pratik Chaudhari  
 
 
 ## 🔮 Future Enhancements
