@@ -85,10 +85,6 @@ The system supports multiple interactions:
 - **Students** – Login, browse listings, submit reviews, upvote/downvote reviews, report inappropriate content.  
 - **Admins** – Moderate flagged content, view analytics dashboard, manage users if necessary.  
 
-> 📊 Diagram
-
-![Use Case Diagram](./web-client/usecase.png)
-
 
 ## 📑 Final Report
 
