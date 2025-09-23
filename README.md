@@ -87,9 +87,8 @@ The system supports multiple interactions:
 
 > 📊 Diagram
 
-![Use Case Diagram](./usecase.png)
+![Use Case Diagram](./web-client/usecase.png)
 
----
 
 ## 📑 Final Report
 
