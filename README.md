@@ -62,7 +62,7 @@ The backend interacts with the database and handles requests from the frontend. 
 
 > 📊 Diagram
 
-![Technical Architecture](./diagram-1.png)
+![Technical Architecture](./web-client/architecture.png)
 
 
 ## 👥 User Personas
@@ -73,10 +73,6 @@ UC Reviews was designed around common UC community roles:
 - **Faculty Persona** – Reviews professor feedback to improve teaching quality.  
 - **Administrator Persona** – Uses the admin dashboard to moderate flagged reviews and track trends.  
 
-> 📊 Diagram
-
-![User Personas](./user-persona.png)
-
 
 ## 📊 Use Case Diagram
 
@@ -85,6 +81,9 @@ The system supports multiple interactions:
 - **Students** – Login, browse listings, submit reviews, upvote/downvote reviews, report inappropriate content.  
 - **Admins** – Moderate flagged content, view analytics dashboard, manage users if necessary.  
 
+> 📊 Diagram
+
+![Use Case](./web-client/usecase.png)
 
 ## 📑 Final Report
 
